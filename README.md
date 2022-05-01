@@ -5,10 +5,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevencript&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevencript&layout=compact&langs_count=7&theme=dracula"/>
  </div>
+ </a>
   
-  <p align="center">
-<img src="https://metadevs.com.br/static/media/logo-w-text.6bc5968eaf1e5ddc1c26.png" alt="Metadevs www.metadevs.com.br" style="width:400px;"/>
-</p>
+  <a href="https://www.metadevs.com.br">
+    <p align="center">
+      <img src="https://metadevs.com.br/static/media/logo-w-text.6bc5968eaf1e5ddc1c26.png" alt="Metadevs www.metadevs.com.br" style="width:400px;"/>
+    </p>
+ </a>
  
   ##
   
